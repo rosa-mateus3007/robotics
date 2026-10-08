@@ -1,4 +1,4 @@
-# Robótica e Automação
+# 🤖 Robótica e Automação
 
 Repositório com projetos de robótica e automação desenvolvidos com Arduino Uno. Aqui você vai encontrar projetos com sensores, displays e sistemas simples de automação, com código em C++ e simulações no Tinkercad.
 
